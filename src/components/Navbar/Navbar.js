@@ -15,7 +15,7 @@ export default function Navbar() {
             <img src="/images/logo.svg" alt="Logo" />
             <Link className="px-4 font-mono text-sm ">CodeSandbox</Link>
           </div>
-          <div className="flex item-center justify-center hidden xl:flex">
+          <div className=" item-center justify-center hidden xl:flex">
             <Link className="px-4 text-xs font-mono flex items-center">
               Product {Icons.ArrowDown}
             </Link>
