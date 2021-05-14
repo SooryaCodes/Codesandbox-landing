@@ -1,12 +1,12 @@
+import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <>
-<Navbar/>
-    {/* <div className="container mx-auto">
-    </div> */}
-  </>
+      <Navbar />
+      <Hero />
+    </>
   );
 }
 

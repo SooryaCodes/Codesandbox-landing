@@ -1,4 +1,4 @@
-let Icons ={
+let Icons = {
   Menu: (
     <svg
       className="w-6 h-6"
@@ -33,4 +33,4 @@ let Icons ={
   ),
 };
 
-export default Icons
+export default Icons;
