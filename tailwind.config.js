@@ -11,7 +11,11 @@ module.exports = {
         navLine : "0 1px 2px 0 rgb(61, 61, 61)"
       },
       spacing: {
-        '22': '5.5rem',
+        '65' : '65rem',
+        '22': '5.5rem'
+      },
+      screens:{
+        "ul":"1920px"
       }
     },
   },

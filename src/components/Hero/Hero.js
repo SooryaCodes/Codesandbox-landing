@@ -3,7 +3,6 @@ import Button from "../Button/Button";
 
 export default function Hero() {
   return (
-    <div className="bg-dark text-white">
       <div className="container mx-auto flex justify-center flex-col items-center text-center py-28 md:py-40 px-5">
         <h1 className="font-bold font-mono text-4xl 	">
           Where teams build faster, together
@@ -46,6 +45,5 @@ export default function Hero() {
         </div>
         <Button text="Create Sandbox" px="7" py="3.5" />
       </div>
-    </div>
   );
 }
